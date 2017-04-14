@@ -5,3 +5,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 change
 stupid
+哈哈joke
